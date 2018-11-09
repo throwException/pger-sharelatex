@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -t exception/pger-sharelatex .
+docker build --no-cache -t exception/pger-sharelatex .
 
